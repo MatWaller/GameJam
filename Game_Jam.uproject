@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "4.9",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "Game_Jam",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
